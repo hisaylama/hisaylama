@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hisaylama
-- 👀 I’m interested in Statistical Physics, Active Matter and BioImage analysis. 
-- 🌱 I’m currently doing research of colective behaviour of bacteria.
-- 💞️ I’m always looking to collaborate
-- 📫 How to reach me: Reach be by mail: hisaylama@gmail.com
+- 👀 I’m interested in Soft Matter, Statistical Physics, and BioImage analysis. 
+- 🌱 I’m currently doing research on bacteria, I am investigating their collective phases.
+- 💞️ I’m always looking forward to collaborate.
+- 📫 How to reach me: By email: hisaylama@gmail.com
 
 <!---
 hisaylama/hisaylama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
