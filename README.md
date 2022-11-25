@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hisaylama
-- 👀 I’m interested in Soft Matter, Statistical Physics, and BioImage analysis. 
-- 🌱 I’m currently doing research on bacteria, I am investigating their collective phases.
+- 👀 I’m experimental soft matter physicist with an interest in machine learning and optics.
+- 🌱 I’m currently doing research on collective motion bacteria, I am investigating their dense collective phases.
 - 💞️ I’m always looking forward to collaborate.
 - 📫 How to reach me: hisaylama@gmail.com
 
