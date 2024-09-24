@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hisaylama
-- 👀 I’m an experimental soft matter physicist with an interest in statistical physics and machine learning.
-- 🌱 I’m currently researching phases of soft matter. I am investigating their dense collective phases.
+- 👀 I’m an experimental soft matter physicist interested in statistical physics and machine learning.
+- 🌱 I’m currently researching phases of soft matter.
 - 💞️ I’m looking forward to collaboration.
 - 📫 How to reach me: hisaylama@gmail.com
 
