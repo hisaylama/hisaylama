@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hisaylama
-- 👀 I’m an experimental soft matter physicist interested in statistical physics and machine learning.
-- 🌱 My primary research area is soft-matter physics and quantitative image-processing.
+- 👀 I’m an experimental soft matter physicist interested in statistical physics, machine learning and quantitative research.
+- 🌱 My primary research area is soft-matter physics, quantitative image processing and quantitative research.
 - 💞️ I’m looking forward to collaboration.
 - 📫 How to reach me: hisaylama@gmail.com
 
