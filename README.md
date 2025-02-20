@@ -34,7 +34,7 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-- [LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/))
+- [[LinkedIn]](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/)
 
 Thank you for visiting my profile! If you share similar interests or have exciting collaboration opportunities, feel free to get in touch.
 
