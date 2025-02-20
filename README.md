@@ -14,7 +14,7 @@ I am an experimental soft matter physicist with a deep interest in statistical p
 
 ## Areas of Expertise
 
-- **Statistical Physics**
+- **Statistical Physics and Theromdynamics**
 - **Machine Learning**
 - **Quantitative Image Processing**
 - **Soft-Matter Physics**
@@ -23,19 +23,18 @@ I am an experimental soft matter physicist with a deep interest in statistical p
 
 Here are some of my notable projects:
 
-1. [Project Name](Link to Project) - Short description of the project.
-2. [Project Name](Link to Project) - Short description of the project.
-3. [Project Name](Link to Project) - Short description of the project.
+1. [Detetcting Minutiae](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern)) - Code characterizes the networks.
+2. ([2D FTIR Hyperspectra viewer](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab)) - Matlab based app for viewing 2D FTIR data.
+3. ([Phase retreival algorithm](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator)) - Phase retrieval code for holography microscopy.
+4. ([Brownian simulation]https://github.com/hisaylama/Brownian-Simulation) - Langevin simulation prey-predator model.
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hisaylama&show_icons=true&theme=radical)
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=hisaylama&show_icons=true&theme=radical](https://gh-stats-gen.vercel.app/))
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
-- [Personal Website/Blog](Your Website/Blog)
+- [LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/))
 
 Thank you for visiting my profile! If you share similar interests or have exciting collaboration opportunities, feel free to get in touch.
 
