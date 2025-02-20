@@ -30,7 +30,7 @@ Here are some of my notable projects:
 
 ## GitHub Stats
 
-![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=hisaylama&theme=radical&show_icons=true&hide_border=true&count_private=true])
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hisaylama&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ## Connect with Me
 
