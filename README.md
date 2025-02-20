@@ -21,7 +21,7 @@ I am an experimental soft matter physicist with a deep interest in statistical p
 
 ## Projects
 
-Here are some of my notable projects:
+**Here are some of my notable projects:**
 
 1. [Detetcting Minutiae](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Code characterizes the networks.
 2. [2D FTIR Hyperspectra viewer](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Matlab-based app for viewing 2D FTIR data.
@@ -34,7 +34,7 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-- [[LinkedIn]](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/)
+- [LinkedIn](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/)
 
 Thank you for visiting my profile! If you share similar interests or have exciting collaboration opportunities, feel free to get in touch.
 
