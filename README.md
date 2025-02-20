@@ -19,7 +19,27 @@ I am an experimental soft matter physicist with a deep interest in statistical p
 - **Quantitative Image Processing**
 - **Soft-Matter Physics**
 
+## Projects
+
+Here are some of my notable projects:
+
+1. [Project Name](Link to Project) - Short description of the project.
+2. [Project Name](Link to Project) - Short description of the project.
+3. [Project Name](Link to Project) - Short description of the project.
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hisaylama&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](Your LinkedIn Profile)
+- [Twitter](Your Twitter Profile)
+- [Personal Website/Blog](Your Website/Blog)
+
 Thank you for visiting my profile! If you share similar interests or have exciting collaboration opportunities, feel free to get in touch.
+
+
 
 <!---
 hisaylama/hisaylama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
