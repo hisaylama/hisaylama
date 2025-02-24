@@ -14,19 +14,19 @@ I am an experimental soft matter physicist with a deep interest in statistical p
 
 ## Areas of Expertise
 
-- **Statistical Physics and Theromdynamics**
+- **Statistical Physics and Thermodynamics**
 - **Machine Learning**
-- **Quantitative Image Processing**
+- **Quantitative Image Processing** 
 - **Soft-Matter Physics**
 
 ## Projects
 
 **Here are some of my notable projects:**
 
-1. [Detetcting Minutiae](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Code characterizes the networks.
-2. [2D FTIR Hyperspectra viewer](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Matlab-based app for viewing 2D FTIR data.
-3. [Phase retreival algorithm](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Phase retrieval code for holography microscopy.
-4. [Brownian simulation](https://github.com/hisaylama/Brownian-Simulation) - Langevin simulation prey-predator model.
+1. [Detetcting Minutiae](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Code characterizes the networks. [**Quantitative Image Processing** ]
+2. [2D FTIR Hyperspectra viewer](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Matlab-based app for viewing 2D FTIR data. [**Soft-Matter Physics**]
+3. [Phase retreival algorithm](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Phase retrieval code for holography microscopy.[**Quantitative Image Processing** ]
+4. [Brownian simulation](https://github.com/hisaylama/Brownian-Simulation) - Langevin simulation prey-predator model. [**Statistical Physics and Thermodynamics**/ **Machine Learning**]
 
 ## GitHub Stats
 
