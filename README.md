@@ -9,7 +9,7 @@ I am an experimental soft matter physicist with a deep interest in statistical p
   - **Soft-Matter Physics:** Investigating the behavior and properties of soft materials.
   - **Quantitative Image Processing:** Developing and applying techniques to extract meaningful data from images.
   - **Quantitative Research:** Utilizing statistical and machine learning methods to analyze and interpret complex data sets.
-- 💞️ I’m eagerly looking forward to collaborations that can push the boundaries of our understanding in these fields.
+-  I’m eagerly looking forward to collaborations that can push the boundaries of our understanding in these fields.
 - 📫 You can reach me at: hisaylama@gmail.com
 
 ## Areas of Expertise
