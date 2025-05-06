@@ -1,6 +1,6 @@
 # Hi there 👋, I'm @hisaylama
 
-I am an experimental soft matter physicist with a deep interest in statistical physics, machine learning, and quantitative research. My work primarily revolves around the intricate world of soft-matter physics and the application of quantitative image processing techniques. 
+I am an experimental soft matter physicist with a deep interest in statistical physics, machine learning, and quantitative research. My work primarily revolves around the intricate world of soft-matter physics, quantitative data driven research and the application of quantitative image processing techniques. 
 
 ## About Me
 
