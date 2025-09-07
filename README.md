@@ -16,7 +16,7 @@ I am an physicist with a deep interest in statistical physics, machine learning,
 
 - **Statistical Physics and Thermodynamics**
 - **Quantitative Image Processing** 
-- **Financial Data Analyst**
+- **Quantitaive modelling**
 -  **Machine Learning**
 
 ## Projects
