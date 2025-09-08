@@ -25,9 +25,9 @@ I am an physicist with a deep interest in statistical physics, machine learning,
 
 1. [Credit Risk Analytics & Real-Time Scoring (LendingClub Case Study)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Built an end-to-end pipeline for feature engineering, model training, and a live scoring web-app. [**Data Science in Finance**]
   
-2. [Graph-Based Pattern & Anomaly Detection from Images](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Converted images to networks to detect endpoints/junctions; framed as graph analytics for fraud/risk signal discovery. [**Quantitative Image Processing**]
+2. [Graph-Based Pattern & Anomaly Detection from Images](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Converted images to networks to detect endpoints/junctions; can be framed as graph analytics for fraud/risk signal discovery. [**Quantitative Image Processing**]
   
-3. [Interactive Analytics App for High-Dimensional Data (Chemical Fingerprint)](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Developed a GUI to slice, filter, and visualize large matrices—analogous to building BI tools for portfolio/credit dashboards. [**Soft-Matter Physics/Analytical Chemistry Analysis**]
+3. [Interactive Analytics App for High-Dimensional Data (Chemical Fingerprint)](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Developed a GUI to slice, filter, and visualize large matrices, analogous to building BI tools for portfolio/credit dashboards. [**Soft-Matter Physics/Analytical Chemistry Analysis**]
   
 4. [Optimization-Driven Signal Reconstruction (Phase retreival algorithm)](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Implemented inverse-problem methods to recover missing/noisy signals for optical holography; transferable to data imputation and time-series smoothing in finance. [**Quantitative Image Processing**]
   
