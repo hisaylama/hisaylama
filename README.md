@@ -9,7 +9,7 @@ I am an physicist with a deep interest in statistical physics, machine learning,
   - **Quantitative Research:** Utilizing statistical and machine learning methods to analyze and interpret complex data sets. 
   - **Physics:** Investigating the properties of nonerquillibrium systems.
   - **Quantitative Image Processing:** Developing and applying techniques to extract meaningful data from images.
--  I’m eagerly looking forward to collaborations that can push the boundaries of our understanding in these fields.
+-  I’m eagerly looking forward to collaborations that can push the boundaries of our understanding in complex systems.
 - 📫 You can reach me at: hisaylama@gmail.com
 
 ## Areas of Expertise
