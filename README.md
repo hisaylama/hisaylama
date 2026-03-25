@@ -4,7 +4,7 @@ I am an physicist with a deep interest in statistical physics, machine learning,
 
 ## About Me
 
-- 👀I’m passionate about complex systems - from *Statistical Physics* to *Finance* - driven to uncover novel insights and meaningful metrics.
+- 👀I’m passionate about complex systems - from *Statistical Physics* to *Machine Learning* - driven to uncover novel insights and meaningful metrics.
 - 👀 My primary research areas include:
   - **Quantitative Research:** Utilizing statistical and machine learning methods to analyze and interpret complex data sets. 
   - **Quantitative Image Processing:** Developing and applying techniques to extract meaningful data from images.
