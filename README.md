@@ -34,10 +34,6 @@ I am an physicist with a deep interest in statistical physics, machine learning,
 Converted noisy microscopy images into quantitative signals via a MATLAB→Python pipeline (denoising, segmentation, feature extraction); modeled dynamics, detected jamming transitions; published in *PNAS Nexus*. **[Code/Data](https://zenodo.org/records/11522483)** · [**Statistical Physics and Thermodynamics**] \
 *Media coverage:* [ScienceDaily](https://www.sciencedaily.com/releases/2024/07/240711111356.htm) · [Phys.org](https://phys.org/news/2024-07-densely-coli-immobile-material-similar.html) · [Bioengineer.org](https://bioengineer.org/bacteria-form-glasslike-state/) · [University of Tokyo](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00363.html)
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hisaylama&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/)
