@@ -1,20 +1,20 @@
 # Hi there 👋, I'm @hisaylama
 
-I am an physicist with a deep interest in statistical physics, machine learning, and quantitative research. 
+I am a physicist working on nonlinear physical systems, with a primary focus on morphology, interfacial phenomena, and computational modelling. My work combines statistical physics, continuum modelling, and machine learning approaches to study complex evolving structures and patterns.
 
 ## About Me
 
-- 👀I’m passionate about complex systems - from *Statistical Physics* to *Machine Learning* - driven to uncover novel insights and meaningful metrics.
-- 👀 My primary research areas include:
-  - **Statistical Physics:** Utilizing statistical and machine learning methods to analyze and interpret complex data sets. 
-  - **Quantitative Modelling:** Developing and applying techniques to extract meaningful data from images.
--  I’m eagerly looking forward to collaborations that can push the boundaries of our understanding in complex systems.
-- 📫 You can reach me at: hisaylama@gmail.com
+- 🔬 My research focuses on:
+  - **Statistical and Nonequillibrium Physics**
+  - **Wetting, Interfaces, and Morphological Evolution**
+  - **Computational and Variational Modelling**
+  - **Scientific Machine Learning for Physical Systems**
 
-## Areas of Expertise
+- 📊 I am particularly interested in combining physics-based models with data-driven approaches for analysing evolving morphologies and extracting physically meaningful representations.
 
-- **Statistical Physics and Pattern Formation**
-- **Quantitaive modelling**, **Quantitative Image Processing**  and **Machine Learning**
+- 🤝 I am open to collaborations in soft matter physics, nonlinear systems, computational modelling, and scientific machine learning.
+
+- 📫 Reach me at: hisaylama@gmail.com
 
 ## Projects
 
