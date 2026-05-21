@@ -13,9 +13,8 @@ I am an physicist with a deep interest in statistical physics, machine learning,
 
 ## Areas of Expertise
 
-- **Statistical Physics and Thermodynamics**
-- **Quantitative Image Processing** 
-- **Quantitaive modelling** and **Machine Learning**
+- **Statistical Physics and Pattern Formation**
+- **Quantitaive modelling**, **Quantitative Image Processing**  and **Machine Learning**
 
 ## Projects
 
