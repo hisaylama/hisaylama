@@ -6,8 +6,8 @@ I am an physicist with a deep interest in statistical physics, machine learning,
 
 - 👀I’m passionate about complex systems - from *Statistical Physics* to *Machine Learning* - driven to uncover novel insights and meaningful metrics.
 - 👀 My primary research areas include:
-  - **Quantitative Research:** Utilizing statistical and machine learning methods to analyze and interpret complex data sets. 
-  - **Quantitative Image Processing:** Developing and applying techniques to extract meaningful data from images.
+  - **Statistical Physics:** Utilizing statistical and machine learning methods to analyze and interpret complex data sets. 
+  - **Quantitative Modelling:** Developing and applying techniques to extract meaningful data from images.
 -  I’m eagerly looking forward to collaborations that can push the boundaries of our understanding in complex systems.
 - 📫 You can reach me at: hisaylama@gmail.com
 
