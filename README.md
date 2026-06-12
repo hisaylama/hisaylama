@@ -7,8 +7,7 @@ I am a physicist working on nonlinear physical systems, with a primary focus on 
 - 🔬 My research focuses on:
   - **Statistical and Nonequillibrium Physics**
   - **Wetting, Interfaces, and Morphological Evolution**
-  - **Computational and Variational Modelling**
-  - **Scientific Machine Learning for Physical Systems**
+  - **Scientific Machine Learning and Computational Modelling for Physical Systems**
 
 - 📊 I am particularly interested in combining physics-based models with data-driven approaches for analysing evolving morphologies and extracting physically meaningful representations.
 
