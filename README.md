@@ -5,7 +5,7 @@ I am a physicist working on nonlinear physical systems, with a primary focus on 
 ## About Me
 
 - 🔬 My research focuses on:
-  - **Statistical and Nonequillibrium Physics**
+  - **Statistical Physics, Non-linear Dynamics and Stochastic Physics**
   - **Wetting, Interfaces, and Morphological Evolution**
   - **Scientific Machine Learning and Computational Modelling for Physical Systems**
 
