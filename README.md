@@ -1,19 +1,20 @@
 # Hi there 👋, I'm @hisaylama
 
-I am a physicist working on nonlinear physical systems, with a primary focus on morphology, interfacial phenomena, and computational modelling. My work combines statistical physics, continuum modelling, and machine learning approaches to study complex evolving structures and patterns.
+I am a Physicist and Quantitative Researcher specializing in stochastic dynamics, morphological evolution, and scientific machine learning. My work bridges physics-based mathematical modeling and modern data-driven architectures to analyze high-dimensional systems, optimize complex networks, and build scalable modeling tools.
 
 ## About Me
 
-- 🔬 My research focuses on:
-  - **Statistical Physics, Non-linear Dynamics and Stochastic Physics**
-  - **Wetting, Interfaces, and Morphological Evolution**
-  - **Scientific Machine Learning and Computational Modelling for Physical Systems**
+🔬 **Core Focus & Expertise:**
+- **Stochastic Modeling & Non-linear Dynamics:** Simulating non-equilibrium systems, Langevin dynamics, and high-dimensional time-series data.
+- **Scientific Machine Learning:** Integrating statistical physics principles with deep learning (Graph Neural Networks, Optimization Algorithms) for pattern recognition and signal recovery.
+- **Computational Engineering & Analytics:** Developing automated pipelines, matrix operations, and interactive dashboards for complex data visualization.
 
-- 📊 I am particularly interested in combining physics-based models with data-driven approaches for analysing evolving morphologies and extracting physically meaningful representations.
+📊 **Quantitative Application:**
+Passionate about translating advanced physical and mathematical models into real-world applications across Quantitative Risk (VaR/stress testing), Fraud & Anomaly Detection, and FinTech Credit Analytics.
 
-- 🤝 I am open to collaborations in soft matter physics, nonlinear systems, computational modelling, and scientific machine learning.
+🤝 **Open to Collaborations:** Quant Research, Financial Engineering, Scientific ML, and Applied Stochastic Modeling.
 
-- 📫 Reach me at: hisaylama@gmail.com
+📫 **Contact:** [hisaylama@gmail.com](mailto:hisaylama@gmail.com)
 
 ## Projects
 
