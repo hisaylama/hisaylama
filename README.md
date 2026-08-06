@@ -12,7 +12,7 @@ I am a Physicist and Quantitative Researcher specializing in stochastic dynamics
 📊 **Quantitative Application:**
 Passionate about translating advanced physical and mathematical models into real-world applications across Quantitative Risk (VaR/stress testing), Fraud & Anomaly Detection, and FinTech Credit Analytics.
 
-🤝 **Open to Collaborations:** Quant Research, Financial Engineering, Scientific ML, and Applied Stochastic Modeling.
+🤝 **Open to Collaborations:** Quant Research, Scientific ML, and Applied Stochastic Modeling.
 
 📫 **Contact:** [hisaylama@gmail.com](mailto:hisaylama@gmail.com)
 
