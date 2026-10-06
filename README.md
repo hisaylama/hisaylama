@@ -20,7 +20,7 @@ Passionate about translating advanced physical and mathematical models into real
 
 **Here are some of my notable projects:**
 
-1. [Credit Risk Analytics & Real-Time Scoring (LendingClub Case Study)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Engineered an end-to-end Machine Learning pipeline for consumer credit default risk assessment. Implemented automated feature engineering, model training, and a low-latency API/web application for live credit scoring. [**FinTech / Credit Risk & Machine Learning**]
+1. [Credit Risk Analytics & Real-Time Scoring (LendingClub Case Study)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Engineered an end-to-end Machine Learning pipeline for consumer credit default risk assessment. Implemented automated feature engineering, model training, and a low-latency API/web application for live credit scoring. [**Data Science**]
   
 2. [Graph-Based Pattern & Anomaly Detection from Images](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Mapped complex image structures to spatial graphs and topological networks to detect structural defects and anomalous junctions. Applicable to complex network analytics, fraud detection, and transactional anomaly signals. [**Quantitative Image Processing**]
   
