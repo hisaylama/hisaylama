@@ -1,6 +1,6 @@
-# Hisay Lama, PhD
+# Hisay Lama
 
-**Data Scientist · Quant Modeller · AI for Science**
+**Quantitative Data Scientist | Physics PhD**
 
 I build models of noisy, high-dimensional systems.
 For 7 years I did this for soft matter (bacteria, droplets, glasses) at Imperial, Tokyo and IBS Korea.
