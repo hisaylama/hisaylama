@@ -24,7 +24,7 @@ Now I use the same tools for credit risk and financial markets.
 ### 📊 Data Science
 
 - **[Credit default risk & real-time scoring (LendingClub)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml)**
-  End-to-end pipeline: cleaning → EDA → default model → deployed scoring app that gives each applicant a 0–100 repayment score.
+  End-to-end pipeline: cleaning - EDA - default model - deployed scoring app that gives each applicant a 0–100 repayment score.
   `Python` `scikit-learn` `XGBoost` `pandas`
 
 <!-- TODO: uncomment when the repo is public
@@ -53,7 +53,7 @@ Now I use the same tools for credit risk and financial markets.
   Covered by [ScienceDaily](https://www.sciencedaily.com/releases/2024/07/240711111356.htm) · [Phys.org](https://phys.org/news/2024-07-densely-coli-immobile-material-similar.html) · [UTokyo](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00363.html)
 
 - **[Graph neural networks for polymer glass transition](https://github.com/hisaylama/Graph-Convolution-Neural-Newtwork)**
-  Molecular graphs → GCNN → predicted Tg.
+  Molecular graphs - GCNN - predicted Tg.
   `PyTorch` `RDKit`
 
 - **[Graph-based defect detection in patterns](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern)**
@@ -68,8 +68,8 @@ Now I use the same tools for credit risk and financial markets.
 
 ## Selected publications
 
-- *Emergence of bacterial glass* — **PNAS Nexus** (2024) · [paper](https://academic.oup.com/pnasnexus/article/3/7/pgae238/7693663)
-- Lama *et al.* — droplet morphology on patterned substrates — **Phys. Rev. E** (2021)
+- *Emergence of bacterial glass*,  **PNAS Nexus** (2024) · [paper](https://academic.oup.com/pnasnexus/article/3/7/pgae238/7693663)
+- *Cracks morphology on soft substrates*, **Phys. Rev. E** (2021)
 
 <!-- TODO: add Google Scholar link here -->
 
