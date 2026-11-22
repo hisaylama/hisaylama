@@ -3,9 +3,8 @@
 **Quantitative Data Scientist | Physics PhD**
 
 I build models of noisy, high-dimensional systems.
-For 7 years I did this for soft matter (bacteria, droplets, glasses) at Imperial, Tokyo and IBS Korea.
-Now I apply the same tools (stochastic processes, statistical physics, machine learning) to **credit risk, markets and scientific data**.
-
+As a physicist at Imperial College London and the University of Tokyo, I modelled bacteria, droplets and glasses using stochastic processes, statistical physics and machine learning.
+Now I use the same tools for credit risk and financial markets.
 📍 London · 🌐 [hisaylama.github.io](https://hisaylama.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/) · 📫 [hisaylama@gmail.com](mailto:hisaylama@gmail.com)
 
 ---
