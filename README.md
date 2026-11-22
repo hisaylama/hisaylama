@@ -1,48 +1,91 @@
-# Hi there 👋, I'm @hisaylama
+# Hisay Lama, PhD
 
-I am a Physicist and Quantitative Researcher specializing in stochastic dynamics, morphological evolution, and scientific machine learning. My work bridges physics-based mathematical modeling and modern data-driven architectures to analyze high-dimensional systems, optimize complex networks, and build scalable modeling tools.
+**Physicist → Data Scientist · Quant Modeller · AI for Science**
 
-## About Me
+I build models of noisy, high-dimensional systems.
+For 7 years I did this for soft matter (bacteria, droplets, glasses) at Imperial, Tokyo and IBS Korea.
+Now I apply the same tools (stochastic processes, statistical physics, machine learning) to **credit risk, markets and scientific data**.
 
-🔬 **Core Focus & Expertise:**
-- **Stochastic Modeling & Non-linear Dynamics:** Simulating non-equilibrium systems, Langevin dynamics, and high-dimensional time-series data.
-- **Scientific Machine Learning:** Integrating statistical physics principles with deep learning (Graph Neural Networks, Optimization Algorithms) for pattern recognition and signal recovery.
-- **Computational Engineering & Analytics:** Developing automated pipelines, matrix operations, and interactive dashboards for complex data visualization.
+📍 London · 🌐 [hisaylama.github.io](https://hisaylama.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/) · 📫 [hisaylama@gmail.com](mailto:hisaylama@gmail.com)
 
-📊 **Quantitative Application:**
-Passionate about translating advanced physical and mathematical models into real-world applications across Quantitative Risk (VaR/stress testing), Fraud & Anomaly Detection, and FinTech Credit Analytics.
+---
 
-🤝 **Open to Collaborations:** Quant Research, Scientific ML, and Applied Stochastic Modeling.
+## What I work on
 
-📫 **Contact:** [hisaylama@gmail.com](mailto:hisaylama@gmail.com)
+| Track | Focus | Methods |
+|---|---|---|
+| 📊 **Data Science** | Credit default (PD) models, scoring, model validation | Feature engineering, gradient boosting, calibration, explainability |
+| 📈 **Quant Modelling** | Volatility regimes, mean reversion, market microstructure | SDEs (GBM, OU, Vasicek), HMMs, Monte Carlo, random matrix theory |
+| 🔬 **AI for Science** | Learning physics from images, shapes and molecules | VAEs / β-VAEs, graph neural networks, computer vision pipelines |
 
-## Projects
+---
 
-**Here are some of my notable projects:**
+## Featured projects
 
-1. [Credit Risk Analytics & Real-Time Scoring (LendingClub Case Study)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Engineered an end-to-end Machine Learning pipeline for consumer credit default risk assessment. Implemented automated feature engineering, model training, and a low-latency API/web application for live credit scoring. [**Data Science**]
-  
-2. [Graph-Based Pattern & Anomaly Detection from Images](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Mapped complex image structures to spatial graphs and topological networks to detect structural defects and anomalous junctions. Applicable to complex network analytics, fraud detection, and transactional anomaly signals. [**Quantitative Image Processing**]
-  
-3. [Interactive Analytics App for High-Dimensional Data (Chemical Fingerprint)](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Developed an interactive GUI to filter, slice, and visualize multi-dimensional feature matrices in real-time. Designed to streamline EDA and complex dashboarding for large-scale dataset analysis. [**Data Engineering / Interactive Dashboards**]
-  
-4. [Optimization-Driven Signal Reconstruction (Phase retreival algorithm)](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Implemented iterative inverse-problem algorithms (Gerchberg–Saxton phase retrieval) to reconstruct noisy or incomplete optical signals. Methodologies directly extend to financial time-series smoothing, missing-data imputation, and matrix completion. [**Signal Processing / Inverse Problems**]
-  
-5. [Stochastic Monte Carlo & Langevin Simulation](https://github.com/hisaylama/Brownian-Simulation) - Architected agent-based stochastic simulation engines using Langevin dynamics to model non-linear particle interactions. Framework translates to simulating extreme market scenarios, Value-at-Risk (VaR) estimation, and liquidity stress testing. [**Quantitative Risk**/**Stochastic Modelling**]
-  
-6. [Dynamic Phase Transitions in Non-Equilibrium Systems (Nonequillibrium Physics)](https://academic.oup.com/pnasnexus/article/3/7/pgae238/7693663#476173859)
-Engineered an automated MATLAB $\rightarrow$ Python computer vision pipeline (denoising, segmentation, feature extraction) to convert raw microscopy video into quantitative dynamic signals; detected jamming transitions in complex soft matter. Published in *PNAS Nexus*. **[Code/Data](https://zenodo.org/records/11522483)** · [**Scientific Machine Learning / Computer Vision**] \
-*Media coverage:* [ScienceDaily](https://www.sciencedaily.com/releases/2024/07/240711111356.htm) · [Phys.org](https://phys.org/news/2024-07-densely-coli-immobile-material-similar.html) · [Bioengineer.org](https://bioengineer.org/bacteria-form-glasslike-state/) · [University of Tokyo](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00363.html)
+### 📊 Data Science
 
-## Connect with Me
+- **[Credit default risk & real-time scoring (LendingClub)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml)**
+  End-to-end pipeline: cleaning → EDA → default model → deployed scoring app that gives each applicant a 0–100 repayment score.
+  `Python` `scikit-learn` `XGBoost` `pandas`
 
-- [LinkedIn](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/)
+<!-- TODO: uncomment when the repo is public
+- **[Credit card PD model: development + validation](https://github.com/hisaylama/REPO)**
+  PD model on UCI credit card data, with a model-validation report (discrimination, calibration, stability).
+  `Python` `XGBoost` `SHAP`
+-->
 
-Thank you for visiting my profile! If you share similar interests or have exciting collaboration opportunities, feel free to get in touch.
+### 📈 Quant Modelling
 
+- **[Langevin & Monte Carlo simulation](https://github.com/hisaylama/Brownian-Simulation)**
+  Stochastic simulation of active and passive Brownian particles; MSD and autocorrelation analysis. The same toolkit underlies path simulation for asset prices.
+  `Python` `NumPy`
 
+<!-- TODO: uncomment when public
+- **[Regime-switching volatility without look-ahead bias](https://github.com/hisaylama/REPO)**
+  HMM regimes on Oxford-Man realised volatility; filtered vs smoothed probabilities and what goes wrong with hindsight.
+- **[Vasicek short-rate model](https://github.com/hisaylama/REPO)**
+  Fitting to Fed rate data and pricing zero-coupon bonds.
+-->
 
-<!---
-hisaylama/hisaylama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔬 AI for Science
+
+- **[Bacterial glass: jamming in dense *E. coli*](https://academic.oup.com/pnasnexus/article/3/7/pgae238/7693663)** · *PNAS Nexus* 2024 · [Code/Data](https://zenodo.org/records/11522483)
+  Computer-vision pipeline (denoising, segmentation, tracking) that turns raw microscopy video into dynamic signals and detects a glass-like transition.
+  Covered by [ScienceDaily](https://www.sciencedaily.com/releases/2024/07/240711111356.htm) · [Phys.org](https://phys.org/news/2024-07-densely-coli-immobile-material-similar.html) · [UTokyo](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00363.html)
+
+- **[Graph neural networks for polymer glass transition](https://github.com/hisaylama/Graph-Convolution-Neural-Newtwork)**
+  Molecular graphs → GCNN → predicted Tg.
+  `PyTorch` `RDKit`
+
+- **[Graph-based defect detection in patterns](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern)**
+  Turns labyrinth patterns into graphs to find junctions, ends and topological defects.
+  `MATLAB`
+
+<!-- TODO: uncomment when preprint is out
+- **Representation learning of droplet morphology** — rotation-invariant Fourier descriptors + β-VAE; the latent space recovers the circle-to-ellipse morphology diagram.
+-->
+
+---
+
+## Selected publications
+
+- *Emergence of bacterial glass* — **PNAS Nexus** (2024) · [paper](https://academic.oup.com/pnasnexus/article/3/7/pgae238/7693663)
+- Lama *et al.* — droplet morphology on patterned substrates — **Phys. Rev. E** (2021)
+
+<!-- TODO: add Google Scholar link here -->
+
+---
+
+## Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+**Open to:** Data Scientist (credit risk / fintech) · Quant / Model Risk Analyst · Scientific ML roles in London.
